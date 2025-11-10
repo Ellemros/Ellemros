@@ -1,5 +1,5 @@
 <img src="assets/icons/LinkedIN Banner (3).png" alt="Banner" />
-<p align="left">•👋 Hi, I'm Vojtěch (you can call me Vojta [Voita])<br><br>•👀 Passionate about data – looking for roles in Data Science, Data Analysis, or Data Engineering<br><br>•🎓 Bachelor’s degree in Mathematics & Master’s degree in Computer Science</p>
+<p align="left">•👋 Hi, I'm Vojtěch (you can call me Vojta /VOY-ta/)<br><br>•👀 Passionate about data – looking for roles in Data Science, Data Analysis, or Data Engineering<br><br>•🎓 I hold a Bachelor's degree in Mathematics and a Master's degree in Computer Science</p>
 
 ###
 <div align="left">
