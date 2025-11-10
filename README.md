@@ -1,3 +1,4 @@
+
 <p align="left">•👋 Hi, I'm Vojtěch (you can call me Vojta [Voita])<br><br>•👀 Passionate about data – looking for roles in Data Science, Data Analysis, or Data Engineering<br><br>•🎓 I hold Bachelor’s in Mathematics & Master’s in Computer Science</p>
 
 ###
@@ -11,6 +12,8 @@
 ###
 
 <div align="center">
+  <img src="assets/icons/databricks.png" height="55" alt="Databricks" />
+  <img src="assets/icons/pbi.png" height="55" alt="Power BI" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
@@ -26,9 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img src="assets/icons/databricks.svg" height="55" alt="Databricks" />
-  <img src="assets/icons/powerbi.webp" height="55" alt="Power BI" />
-
 </div>
 
 ###
