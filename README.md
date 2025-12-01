@@ -4,7 +4,7 @@
 ###
 <div align="left">
 •📫 Reach me on&nbsp;
-  <a href="http://www.linkedin.com/in/vojt%C4%9Bch-matul%C3%ADk-69522222b" target="_blank">
+  <a href="https://www.linkedin.com/in/matulik/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="25" alt="linkedin logo"  />
   </a>
 </div>
